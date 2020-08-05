@@ -14,7 +14,7 @@ Advanced Programming Final Project-A video player with the feature of being able
  - You are going to add all your videos + their tags with the **EXACT** same name as their videos in the root directory of the program
  - When you start the program you need to import the video and it will automatically add its related(same name) excel-file as the video tags.
  
- ##Features
+ ## Features
  - You can use the easy-access section at the bottom part of the program to jumpt to different parts of the video with just a click
  - You can change your view with variety of themes added on the view part
  - You can also edit and delete the tags you want
